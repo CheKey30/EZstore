@@ -10,4 +10,10 @@ The database is used to hold all information about customers and products.
 To try this system,   
   1.import the EZstore_app project to Android studio.  
   2.import the EZstore_web project to Intellij IDEA.  
-  3.import the EZstore_database to MySQL.
+  3.import the EZstore_database to MySQL.  
+You can also download the EZstore.apk to your Android smartphone and install it.  
+  
+    
+      
+Notice:  
+The locating function is implemented through bluetooth beacon. So it cannot work without Bluetooth beacon.
